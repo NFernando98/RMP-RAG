@@ -1,0 +1,17 @@
+anaconda-anon-usage==0.4.4
+brotli==1.0.9
+chill==0.10.0
+conda-content-trust==0.2.0
+importlib-metadata==8.0.0
+importlib-resources==6.4.0
+ipykernel==6.29.5
+jaraco.text==3.12.1
+openai==1.44.0
+ordered-set==4.1.0
+pinecone-client==5.0.1
+pip-chill==1.0.3
+pysocks==1.7.1
+python-dotenv==1.0.1
+ruamel.yaml==0.17.21
+tomli==2.0.1
+win-inet-pton==1.1.0

@@ -1,0 +1,137 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Emily Johnson",
+        "subject": "Introduction to Psychology",
+        "stars": 4,
+        "review": "Dr. Johnson is very knowledgeable and passionate about psychology. The lectures are engaging, but the assignments can be quite challenging."
+      },
+      {
+        "professor": "Prof. Michael Smith",
+        "subject": "Organic Chemistry",
+        "stars": 3,
+        "review": "Prof. Smith is a decent instructor but sometimes struggles to explain complex concepts clearly. The class can be difficult if you're not familiar with the subject."
+      },
+      {
+        "professor": "Dr. Lisa Brown",
+        "subject": "Advanced Calculus",
+        "stars": 5,
+        "review": "Dr. Brown is an exceptional teacher with a deep understanding of calculus. Her lectures are clear, and she provides great support outside of class."
+      },
+      {
+        "professor": "Prof. Robert Lee",
+        "subject": "Introduction to Computer Science",
+        "stars": 4,
+        "review": "Prof. Lee makes programming accessible and enjoyable. The course material is well-organized, though the workload can be heavy at times."
+      },
+      {
+        "professor": "Dr. Sarah Davis",
+        "subject": "Modern History",
+        "stars": 2,
+        "review": "Dr. Davis's lectures are often disorganized, and her grading can be inconsistent. The subject matter is interesting, but the teaching could be improved."
+      },
+      {
+        "professor": "Prof. Daniel Martinez",
+        "subject": "Economics 101",
+        "stars": 3,
+        "review": "Prof. Martinez provides a basic understanding of economics. The classes are straightforward, but there's a lack of depth in the material covered."
+      },
+      {
+        "professor": "Dr. Jessica Wilson",
+        "subject": "Biology of Cells",
+        "stars": 5,
+        "review": "Dr. Wilson is fantastic! She explains complex biological processes with ease and enthusiasm. The lab sessions are particularly valuable."
+      },
+      {
+        "professor": "Prof. David Garcia",
+        "subject": "World Literature",
+        "stars": 4,
+        "review": "Prof. Garcia is very engaging and knowledgeable about literature. The course discussions are thought-provoking, though the reading list is extensive."
+      },
+      {
+        "professor": "Dr. Amanda Robinson",
+        "subject": "Statistics for Social Sciences",
+        "stars": 3,
+        "review": "Dr. Robinson does a good job with the basics of statistics, but the class can get repetitive. The problem sets are helpful for practice."
+      },
+      {
+        "professor": "Prof. James Clark",
+        "subject": "Intro to Philosophy",
+        "stars": 5,
+        "review": "Prof. Clark is brilliant and stimulates great discussions. The course challenges you to think critically and engage with complex ideas."
+      },
+      {
+        "professor": "Dr. Karen Lewis",
+        "subject": "Environmental Science",
+        "stars": 4,
+        "review": "Dr. Lewis is passionate about the environment and integrates real-world issues into the curriculum. The class is interactive and thought-provoking."
+      },
+      {
+        "professor": "Prof. Anthony Walker",
+        "subject": "Financial Accounting",
+        "stars": 2,
+        "review": "Prof. Walker's teaching style is dry, and he doesn't make the material very engaging. The course is essential but could be improved with better delivery."
+      },
+      {
+        "professor": "Dr. Megan Hall",
+        "subject": "Artificial Intelligence",
+        "stars": 5,
+        "review": "Dr. Hall is an expert in AI and provides insightful lectures and hands-on projects. The course is challenging but rewarding."
+      },
+      {
+        "professor": "Prof. Christopher Allen",
+        "subject": "Macroeconomics",
+        "stars": 3,
+        "review": "Prof. Allen covers the basics well, but the lectures can be monotonous. The material is important but presented in a somewhat dull manner."
+      },
+      {
+        "professor": "Dr. Natalie Young",
+        "subject": "Genetics",
+        "stars": 4,
+        "review": "Dr. Young is very knowledgeable and makes genetics accessible. The labs are very useful, though the exams can be quite tough."
+      },
+      {
+        "professor": "Prof. Joshua Hernandez",
+        "subject": "Human Anatomy",
+        "stars": 4,
+        "review": "Prof. Hernandez provides clear explanations and uses practical examples. The course is demanding but offers a comprehensive understanding of anatomy."
+      },
+      {
+        "professor": "Dr. Laura King",
+        "subject": "Public Speaking",
+        "stars": 5,
+        "review": "Dr. King is an excellent instructor who helps students build confidence. The course is interactive and provides valuable skills for effective communication."
+      },
+      {
+        "professor": "Prof. Brian Thompson",
+        "subject": "Database Management",
+        "stars": 3,
+        "review": "Prof. Thompson covers the material adequately but lacks enthusiasm. The practical exercises are useful, though the lectures can be dry."
+      },
+      {
+        "professor": "Dr. Emily Roberts",
+        "subject": "Neuroscience",
+        "stars": 5,
+        "review": "Dr. Roberts is incredibly knowledgeable and passionate. Her teaching makes complex neuroscience topics engaging and understandable."
+      },
+      {
+        "professor": "Prof. Richard White",
+        "subject": "Creative Writing",
+        "stars": 4,
+        "review": "Prof. White is inspiring and provides excellent feedback. The course fosters creativity and helps improve writing skills."
+      },
+      {
+        "professor": "Dr. Olivia Harris",
+        "subject": "Microeconomics",
+        "stars": 3,
+        "review": "Dr. Harris presents the material clearly but doesn't always address practical applications. The course is solid but could use more real-world examples."
+      },
+      {
+        "professor": "Prof. Steven Moore",
+        "subject": "Calculus II",
+        "stars": 5,
+        "review": "Prof. Moore is an exceptional teacher who makes difficult topics more manageable. His enthusiasm and clear explanations are very helpful."
+      }
+    ]
+  }
+  
